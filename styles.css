@@ -47,7 +47,9 @@ table {
 	border-spacing: 0;
 }
 
-
+html{
+	font-size: 16px;
+}
 
 
 .content{
@@ -60,14 +62,14 @@ table {
 
 }
 .opener {
-	font-size: 25px;
+	font-size: 1.5625em;
 	margin: 30px;
 	padding:0 auto;
 	line-height: 1.4;
 }
 .subOpener {
 	font-weight: bold;
-	font-size: 25px;
+	font-size: 1.5625em;
 	text-align: right;
 	margin:0 auto;
 
