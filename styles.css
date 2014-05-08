@@ -74,12 +74,12 @@ table {
 }
 .container{
 	margin: 0 auto;
-	width: 71%;
+	width: 90%;
 }
 .box{
 	display: inline-block;
 	margin: 0 auto;
-	padding: 33px;
+	padding: 63px;
 	height: 155px;
 	width: 155px;
 
@@ -92,7 +92,7 @@ strong{
 }
 a {
 	text-decoration: none;
-
+	color: blue;
 }
 .footer {
 	border-top: 1px solid #aaaaaa;
