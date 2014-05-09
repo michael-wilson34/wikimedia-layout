@@ -59,6 +59,8 @@ html{
 .paragraph{
 	margin: 0 auto;
 	text-align: justify;
+	width: 80%;
+	font-size: 13.5px;
 
 }
 .opener {
@@ -72,16 +74,19 @@ html{
 	font-size: 1.5625em;
 	text-align: right;
 	margin:0 auto;
+	width: 80%;
 
 }
 .container{
 	margin: 0 auto;
-	width: 90%;
+	width: 92%;
 }
 .box{
 	display: inline-block;
 	margin: 0 auto;
-	padding: 63px;
+	padding: 66px;
+	padding-top:10px;
+	padding-bottom:10px;
 	height: 155px;
 	width: 155px;
 
@@ -99,4 +104,7 @@ a {
 .footer {
 	border-top: 1px solid #aaaaaa;
 	text-align:center;
+}
+span{
+	margin-left: 3em;
 }
